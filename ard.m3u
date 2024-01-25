@@ -1,0 +1,801 @@
+#EXTM3U x-tvg-url="https://iptvx.one/EPG,https://epg.ovh/pl.gz" cache=500 audio-track=ru m3uautoload=1
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/403.png" tvg-id="KLI HIT90",KLI HIT90
+http://lb.wisp.cat/lb0/klihit90/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/427.png" tvg-id="",UA Music HD
+http://lb.wisp.cat/lb0/UA_Music_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/359.png" tvg-id="sportdigital-fussball",Sportdigital Fussball HD
+http://lb.wisp.cat/lb0/DE_SPORTDIGITAL_HD/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/91.png" tvg-id="",Суспільне Спорт HD
+http://lb.wisp.cat/lb0/Suspilne_Sport_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/117.png" tvg-id="setanta1-lt",Setanta Sports 1 HD Baltic
+http://lb.wisp.cat/lb0/Setanta_LV_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/120.png" tvg-id="",Музвар
+http://lb.wisp.cat/lb0/Muzvar/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Horse TV HD
+http://lb.wisp.cat/lb0/Horse_TV_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/737.png" tvg-id="",RTL UHD
+http://lb.wisp.cat/lb0/DE_RTL_4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",Moba
+http://lb.wisp.cat/lb0/Moba/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/546.png" tvg-id="PL_VOX Music TV PL",VOX Music TV
+http://lb.wisp.cat/lb0/PL_VOX_Music_TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1084.png" tvg-id="mtv-europe",MTV Europe
+http://lb.wisp.cat/lb0/MTV_Europe/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1388.png" tvg-id="aiva",AIVA HD
+http://lb.wisp.cat/lb0/AIVA_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/226.png" tvg-id="",УПЛ 1
+http://lb.wisp.cat/lb0/UPL_1_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1912.png" tvg-id="classic-music",Classic music HD
+http://lb.wisp.cat/lb0/Classic_music_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2818.png" tvg-id="",Go3 Sport 4 HD
+http://lb.wisp.cat/lb0/GO3_Sport_4/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/251.png" tvg-id="",MuzsikaTV
+http://lb.wisp.cat/lb0/HU_muzsika_TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/733.png" tvg-id="",MCM Top HD
+http://lb.wisp.cat/lb0/MCM_TOP_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/296.png" tvg-id="RTVS_Sport",RTVS :Sport HD
+http://lb.wisp.cat/lb0/CZ_RTSV_Sport_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/284.png" tvg-id="noroc-tv-md",Noroc TV MD
+http://lb.wisp.cat/lb0/Noroc_TV_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1389.png" tvg-id="",DIGI 4K
+http://lb.wisp.cat/lb0/Digi4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/291.png" tvg-id="",УПЛ 3
+http://lb.wisp.cat/lb0/UPL_3_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/96.png" tvg-id="KLI Music HD",KLI Music
+http://lb.wisp.cat/lb0/klimusictv/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1209.png" tvg-id="",Mooz Hit
+http://lb.wisp.cat/lb0/Mooz_Hit/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1083.png" tvg-id="tv3-sport-open",Go3 Sport Open HD
+http://lb.wisp.cat/lb0/TV3_SPORT_OPEN_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1031.png" tvg-id="home-4k",HOME 4K
+http://lb.wisp.cat/lb0/Home_4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2772.png" tvg-id="insport-kz",InSport HD KZ
+http://lb.wisp.cat/lb0/insporthd/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1092.png" tvg-id="start",Старт HD
+http://lb.wisp.cat/lb0/STARTHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2773.png" tvg-id="intennis-kz",InTennis HD KZ
+http://lb.wisp.cat/lb0/intennishd/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",Mooz Dance
+http://lb.wisp.cat/lb0/Mooz_Dance/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2774.png" tvg-id="inhockey-kz",InHockey HD KZ
+http://lb.wisp.cat/lb0/inhockeyhd/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/2775.png" tvg-id="",Clarity4K Netflix
+http://lb.wisp.cat/lb0/Netflix_4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1097.png" tvg-id="nasha-sibir",Наша Сибирь 4K
+http://lb.wisp.cat/lb0/NashaSibir4k/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/603.png" tvg-id="ultra-hd-cinema",Cinema UHD
+http://lb.wisp.cat/lb0/ULTRAHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",ClubWavetv HD
+http://lb.wisp.cat/lb0/clubwavetv/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2335.png" tvg-id="",VivaLatino HD
+http://lb.wisp.cat/lb0/VivaLatino_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/939.png" tvg-id="extreme-sports",Extreme Sports HD
+http://lb.wisp.cat/lb0/ExtremeSportsHD_RU/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/181.png" tvg-id="",Event 4
+http://lb.wisp.cat/lb0/Event_04/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/184.png" tvg-id="",My Hits
+http://lb.wisp.cat/lb0/My_Hits/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/183.png" tvg-id="",Event 5
+http://lb.wisp.cat/lb0/Event_05/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/182.png" tvg-id="",Event 6
+http://lb.wisp.cat/lb0/Event_06/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1071.png" tvg-id="kino-ultra-hd",Кино UHD
+http://lb.wisp.cat/lb0/TRI_KINO_UHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/579.png" tvg-id="serial-ultrahd",Сериал UHD
+http://lb.wisp.cat/lb0/TRI_SERIAL_UHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/54.png" tvg-id="eurosport1",Eurosport 1 CEE
+http://lb.wisp.cat/lb0/Eurosport_1/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",V Sport Golf HD
+http://lb.wisp.cat/lb0/Viasat_Sport_Premium/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/57.png" tvg-id="eurosport2",Eurosport 2 CEE
+http://lb.wisp.cat/lb0/CH_EUROSPORT2/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/631.png" tvg-id="sportivny",Спортивный HD
+http://lb.wisp.cat/lb0/eurosportgoldhd/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/614.png" tvg-id="mezzo",Mezzo HD
+http://lb.wisp.cat/lb0/Mezzo_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/436.png" tvg-id="match-igra",Матч! Игра
+http://lb.wisp.cat/lb0/MATCH_IGRA/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/441.png" tvg-id="match-igra",Матч! Игра HD
+http://lb.wisp.cat/lb0/MatchIgraHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/473.png" tvg-id="match-arena",Матч! Арена
+http://lb.wisp.cat/lb0/MATCH_ARENA/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/438.png" tvg-id="match-arena",Матч! Арена HD
+http://lb.wisp.cat/lb0/MatchArenaHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/437.png" tvg-id="match-boets",Матч! Боец
+http://lb.wisp.cat/lb0/MATCH_BOEC/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/443.png" tvg-id="match-planeta",Матч! Планета
+http://lb.wisp.cat/lb0/Match_Planeta/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/476.png" tvg-id="match-football1",Матч! Футбол 1
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_1/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/431.png" tvg-id="match-football1",Матч! Футбол 1 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_1_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/430.png" tvg-id="match-football2",Матч! Футбол 2
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_2/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/429.png" tvg-id="match-football2",Матч! Футбол 2 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/434.png" tvg-id="match-football3",Матч! Футбол 3
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_3/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/433.png" tvg-id="match-football3",Матч! Футбол 3 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_3_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/876.png" tvg-id="footbolny",Футбольный HD
+http://lb.wisp.cat/lb0/MatchFutbol3HDLOW/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/432.png" tvg-id="match-premier",Матч! Премьер
+http://lb.wisp.cat/lb0/MATCH_PREMIER/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/435.png" tvg-id="match-premier",Матч! Премьер HD
+http://lb.wisp.cat/lb0/MATCH_PREMIER_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/591.png" tvg-id="russky-ekstrim",Russian Extreme
+http://lb.wisp.cat/lb0/RussianExtremeSD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/558.png" tvg-id="russky-ekstrim",Russian Extreme HD
+http://lb.wisp.cat/lb0/RussianEkstrimHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/445.png" tvg-id="kxl",KHL
+http://lb.wisp.cat/lb0/KXL_SD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/477.png" tvg-id="kxl",KHL HD
+http://lb.wisp.cat/lb0/KHLHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/56.png" tvg-id="sport1-ua",Спорт 1
+http://lb.wisp.cat/lb0/Sport1/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="3" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/736.png" tvg-id="sport1-baltic",Спорт 4
+http://lb.wisp.cat/lb0/Sport_1Baltic/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/55.png" tvg-id="sport2-ua",Спорт 2
+http://lb.wisp.cat/lb0/sport2/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="3" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/732.png" tvg-id="sport1-baltic",Спорт 1 Baltic
+http://lb.wisp.cat/lb0/Sport_2Baltic/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/566.png" tvg-id="setanta-sports",Setanta Sports 1 HD
+http://lb.wisp.cat/lb0/SetantaHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/565.png" tvg-id="setanta-sports-plus",Setanta Sports 2 HD
+http://lb.wisp.cat/lb0/SetantaEurasia2HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/475.png" tvg-id="box-tv",Бокс ТВ
+http://lb.wisp.cat/lb0/BOKSTV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/665.png" tvg-id="football-ru",Телеканал Футбол
+http://lb.wisp.cat/lb0/telekanal_football/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/684.png" tvg-id="football-ru",Телеканал Футбол HD
+http://lb.wisp.cat/lb0/TelekanalFootbalHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/764.png" tvg-id="fightbox-hd",FightBox
+http://lb.wisp.cat/lb0/Fightbox/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/37.png" tvg-id="fightbox-hd",FightBox HD
+http://lb.wisp.cat/lb0/FightBox_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/156.png" tvg-id="viasat-sport",Viju Sport
+http://lb.wisp.cat/lb0/Viasat_SportRU/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/169.png" tvg-id="viasat-sport",Viju Sport HD
+http://lb.wisp.cat/lb0/ViasatSport/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",We Sport
+http://lb.wisp.cat/lb0/WE_SPORTTV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="3" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1063.png" tvg-id="tvplay-sports",Go3 Sport 1 HD
+http://lb.wisp.cat/lb0/LT_VIASAT_SPORT_BALTIC_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/158.png" tvg-id="xsport-ua",Xsport
+http://lb.wisp.cat/lb0/XSPORT/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/138.png" tvg-id="xsport-ua",Xsport HD
+http://lb.wisp.cat/lb0/XsportHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/469.png" tvg-id="extreme-sports",Extreme Sports
+http://lb.wisp.cat/lb0/Extreme_Sports/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/677.png" tvg-id="motorsportv-tv",Моторспорт ТВ HD
+http://lb.wisp.cat/lb0/MOTOSPORT_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1068.png" tvg-id="sport1-lt",Sport 1 LT
+http://lb.wisp.cat/lb0/SDI_SPORT1_LT/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/260.png" tvg-id="konny-mir",Конный Мир
+http://lb.wisp.cat/lb0/KONNYI_MIR_SD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/474.png" tvg-id="konny-mir",Конный Мир HD
+http://lb.wisp.cat/lb0/Konnyi_Mir_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/1816.png" tvg-id="",УПЛ 2
+http://lb.wisp.cat/lb0/UPL_2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/710.png" tvg-id="nba-tv",NBA TV
+http://lb.wisp.cat/lb0/NBATV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/61.png" tvg-id="ring-bg",RING HD
+http://lb.wisp.cat/lb0/RING_TV_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/444.png" tvg-id="m1global",MMA-TV.COM
+http://lb.wisp.cat/lb0/M1_Global/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/466.png" tvg-id="avto-plus",Авто плюс
+http://lb.wisp.cat/lb0/AVTOPLUS_SD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/392.png" tvg-id="bridge-tv",Bridge TV
+http://lb.wisp.cat/lb0/BRIDGE_TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/393.png" tvg-id="bridge-hd",Bridge TV Deluxe HD
+http://lb.wisp.cat/lb0/BRIDGE_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/394.png" tvg-id="bridge-tv-dance",Bridge Hits
+http://lb.wisp.cat/lb0/bridge_danse/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/391.png" tvg-id="bridge-tv-ruxit",Bridge Русский Хит
+http://lb.wisp.cat/lb0/BRIDGE_RU_Hit/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/585.png" tvg-id="bridge-tv-classic",Bridge TV Classic
+http://lb.wisp.cat/lb0/Bridge_Classic/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/387.png" tvg-id="1hd",1 HD
+http://lb.wisp.cat/lb0/1HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/27.png" tvg-id="eu-music",EU Music
+http://lb.wisp.cat/lb0/EUmusic/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/12.png" tvg-id="eu-music",EU Music HD
+http://lb.wisp.cat/lb0/EU_Music_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/385.png" tvg-id="mezzo",Mezzo
+http://lb.wisp.cat/lb0/Mezzo/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/384.png" tvg-id="mezzo-live-hd",Mezzo Live HD
+http://lb.wisp.cat/lb0/Mezzo_Live_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/388.png" tvg-id="",MTV Music UK
+http://lb.wisp.cat/lb0/MTV_MUSIC_UK/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/129.png" tvg-id="mtv-hits-int",MTV Hits Int
+http://lb.wisp.cat/lb0/MTV_Hits_int/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/395.png" tvg-id="",Kerrang!
+http://lb.wisp.cat/lb0/Kerrang/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/125.png" tvg-id="mtv-dance-int",MTV Club Int
+http://lb.wisp.cat/lb0/MTV_Club_int/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/170.png" tvg-id="mtv-rocks-int",MTV 90s Int
+http://lb.wisp.cat/lb0/MTV_90_int/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",V2Beat
+http://lb.wisp.cat/lb0/v2beat/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/148.png" tvg-id="mtv-live-hd",MTV Live HD Int
+http://lb.wisp.cat/lb0/MTV_Live_HD_int/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/386.png" tvg-id="mcm-top",MCM Top
+http://lb.wisp.cat/lb0/MCM_Top/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/378.png" tvg-id="zhara",Жара
+http://lb.wisp.cat/lb0/ZHARA_SD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/685.png" tvg-id="zhara",Жара HD
+http://lb.wisp.cat/lb0/ZHARA_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/175.png" tvg-id="box-metall",BOX Metall HD
+http://lb.wisp.cat/lb0/BOX_Metall_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/374.png" tvg-id="",Music Box Polska HD
+http://lb.wisp.cat/lb0/MUSICBOXUA_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/383.png" tvg-id="russian-musicbox",Music Box Россия
+http://lb.wisp.cat/lb0/RussianMusicBox/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/645.png" tvg-id="russian-musicbox",Music Box Россия HD
+http://lb.wisp.cat/lb0/RussianMusicBoxHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/250.png" tvg-id="musicbox",MusicBox Gold
+http://lb.wisp.cat/lb0/Music_Box_Gold/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/220.png" tvg-id="vh1-european",MTV 00s Int
+http://lb.wisp.cat/lb0/MTV_00_int/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/207.png" tvg-id="vh1-classic",MTV 80s int
+http://lb.wisp.cat/lb0/MTV_80_int/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/381.png" tvg-id="ru-tv",RU TV
+http://lb.wisp.cat/lb0/RU_TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/629.png" tvg-id="ru-tv",RU TV HD
+http://lb.wisp.cat/lb0/RUTV_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/783.png" tvg-id="o2tv",O2 ТВ
+http://lb.wisp.cat/lb0/O2TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/600.png" tvg-id="o2tv",O2 HD
+http://lb.wisp.cat/lb0/O2TV_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/390.png" tvg-id="europa-plus-tv",Европа плюс ТВ
+http://lb.wisp.cat/lb0/EUROPA_PLUS/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/705.png" tvg-id="europa-plus-tv",Европа плюс HD
+http://lb.wisp.cat/lb0/Europaplus_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/204.png" tvg-id="",Deluxe Music
+http://lb.wisp.cat/lb0/Deluxe_Music/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1214.png" tvg-id="",Deluxe Music HD
+http://lb.wisp.cat/lb0/DE_DELUXE_MUSIC_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/642.png" tvg-id="iconcerts",Stingray iConcert HD
+http://lb.wisp.cat/lb0/iConcerts_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/601.png" tvg-id="vostok-tv",Восток ТВ
+http://lb.wisp.cat/lb0/Vostok_TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/707.png" tvg-id="nashe-retro",Наше Ретро HD
+http://lb.wisp.cat/lb0/Nashe_Retro_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/401.png" tvg-id="nashe-music-hd",НашеMusic HD
+http://lb.wisp.cat/lb0/NASHE_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/362.png" tvg-id="",Етно HD
+http://lb.wisp.cat/lb0/EtnoHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/377.png" tvg-id="muztv",Муз ТВ
+http://lb.wisp.cat/lb0/MYZ_TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/402.png" tvg-id="muzyka-pervogo",Музыка первого
+http://lb.wisp.cat/lb0/MUZIKA_PERVOGO/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/131.png" tvg-id="360-tunebox",360 TuneBox HD
+http://lb.wisp.cat/lb0/360TuneBoxHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/2414.png" tvg-id="nhl",NHL HD
+http://lb.wisp.cat/lb0/NHLTVHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/714.png" tvg-id="4ever-music",4 Ever music HD
+http://lb.wisp.cat/lb0/4EverHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Sky Sport UHD
+http://lb.wisp.cat/lb0/Sky_Sport_UHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1075.png" tvg-id="tnt-music",ТНТ Music HD
+http://lb.wisp.cat/lb0/TNTMUSIC_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/584.png" tvg-id="c-music-tv",C music HD
+http://lb.wisp.cat/lb0/C_Music/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/406.png" tvg-id="tnt-music",ТНТ Music
+http://lb.wisp.cat/lb0/TNT_MUSIC/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/272.png" tvg-id="la-minor",Ля Минор
+http://lb.wisp.cat/lb0/LA_MINOR/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/9.png" tvg-id="daznbar1",DAZN 1 HD
+http://lb.wisp.cat/lb0/DAZN_1_ES/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Eurosport 4K
+http://lb.wisp.cat/lb0/EuAB39EE13test4K1/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/7.png" tvg-id="daznbar2",DAZN 2 HD
+http://lb.wisp.cat/lb0/DAZN_2_ES/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/358.png" tvg-id="Sport2",Sport 2 HD CZ
+http://lb.wisp.cat/lb0/CZ_SPORT2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/2776.png" tvg-id="",Clarity4K World Music
+http://lb.wisp.cat/lb0/Clarity4K_World_Music/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/580.png" tvg-id="",TRT 4K
+http://lb.wisp.cat/lb0/TRT_4K_TR/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/730.png" tvg-id="box-tv",Бокс ТВ HD
+http://lb.wisp.cat/lb0/Boks_Tv_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/132.png" tvg-id="",Canal+ Sport CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_CZ/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1175.png" tvg-id="love-nature-4k",Love Nature 4K
+http://lb.wisp.cat/lb0/INT_LOVE_NATURE_4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/289.png" tvg-id="bridge-tv-shlager",Bridge TV Шлягер
+http://lb.wisp.cat/lb0/BRIDGETVSHLYAGER/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/299.png" tvg-id="Sport1",Sport 1 HD CZ
+http://lb.wisp.cat/lb0/CZ_SPORT1_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/279.png" tvg-id="",Skvele TV UHD
+http://lb.wisp.cat/lb0/Skvele_TV_UHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/210.png" tvg-id="insight-ultra-hd",Insight UHD
+http://lb.wisp.cat/lb0/DE_INSIGHT_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1109.png" tvg-id="",Nasa UHD
+http://lb.wisp.cat/lb0/NasaTV_UHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/975.png" tvg-id="myzen-4k",MyZen TV 4K
+http://lb.wisp.cat/lb0/MyZen_4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Спорт 2 Baltic
+http://lb.wisp.cat/lb0/Sport2BalticCG/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/990.png" tvg-id="",Prime Fight HD
+http://lb.wisp.cat/lb0/PRIME_FIGHT_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1216.png" tvg-id="russian-extreme-uhd",ULTRA REX
+http://lb.wisp.cat/lb0/ULTRAREX/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="3" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1126.png" tvg-id="tvplay-sports-plus",Go3 Sport 2 HD
+http://lb.wisp.cat/lb0/SDI_TVPLAY_SPORTS_PLUS/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1124.png" tvg-id="mir-basketbola",Мир Баскетбола
+http://lb.wisp.cat/lb0/MIR_BASKETBOLA/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1131.png" tvg-id="PL_4FunFitDance.pl",4 Fun Dance
+http://lb.wisp.cat/lb0/PL_4Fun_Dance/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1132.png" tvg-id="PL_4FunHits.pl",4fun Kids
+http://lb.wisp.cat/lb0/PL_4Fun_Gold_Hits/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1133.png" tvg-id="4fun",4 Fun TV
+http://lb.wisp.cat/lb0/PL_4Fun_TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",The Box
+http://lb.wisp.cat/lb0/Box_Hits/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1143.png" tvg-id="canal-pl-sport-2",CANAL+ Sport 2 HD PL
+http://lb.wisp.cat/lb0/PL_CANAL_SPORT_2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1144.png" tvg-id="canal-pl-sport-1",CANAL+ Sport HD PL
+http://lb.wisp.cat/lb0/PL_CANAL_SPORT_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1161.png" tvg-id="PL_DiscoPoloMusic.pl",Disco Polo Music
+http://lb.wisp.cat/lb0/PL_DISCO_POLO_MUSIC/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1157.png" tvg-id="PL_ElevenSport4.pl",Eleven Sports 4 HD
+http://lb.wisp.cat/lb0/PL_ELEVEN_SPORTS_4_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1156.png" tvg-id="PL_ElevenSport1.pl",Eleven Sports 1 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_1_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1155.png" tvg-id="PL_ElevenSport2.pl",Eleven Sports 2 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1154.png" tvg-id="PL_ElevenSport3.pl",Eleven Sports 3 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_3_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1169.png" tvg-id="eskatv",Eska TV
+http://lb.wisp.cat/lb0/PL_Eska_TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1168.png" tvg-id="eskatv-extra",Eska TV Extra
+http://lb.wisp.cat/lb0/PL_Eska_TV_Extra/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1167.png" tvg-id="eurosport2-pl",Eurosport 2 HD Polska
+http://lb.wisp.cat/lb0/PL_Eurosport_2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1166.png" tvg-id="PL_Extreme Sports FHD PL",Extreme Sports HD Polska
+http://lb.wisp.cat/lb0/PL_Extreme_Sports_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1164.png" tvg-id="PL_Fight Klub HD PL",Fight Klub HD
+http://lb.wisp.cat/lb0/PL_Fightklub_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Arena Sport 2 HD
+http://lb.wisp.cat/lb0/SVK_ARENA_SPORT2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1190.png" tvg-id="polsat-music",Polsat Music HD
+http://lb.wisp.cat/lb0/PL_Polsat_Music_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1199.png" tvg-id="polsat-sport-fight",Polsat Sport Fight HD
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Fight_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1198.png" tvg-id="polsat-sport-news",Polsat Sport News HD
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_News_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1182.png" tvg-id="PL_StarsTV.pl",STARS TV
+http://lb.wisp.cat/lb0/PL_Stars/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1227.png" tvg-id="cbc-sport",CBC Sport HD
+http://lb.wisp.cat/lb0/CBCSportHD_GE/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1817.png" tvg-id="sport1-lt",Sport 1 LT HD
+http://lb.wisp.cat/lb0/SDI_SPORT1_LT_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1234.png" tvg-id="museum-4k",Museum 4K
+http://lb.wisp.cat/lb0/Museum4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1201.png" tvg-id="avto-plus",Авто плюс HD
+http://lb.wisp.cat/lb0/AVTOPLUSHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1207.png" tvg-id="",Jukebox
+http://lb.wisp.cat/lb0/Jukebox/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1206.png" tvg-id="ufc",Удар HD
+http://lb.wisp.cat/lb0/UFCHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1802.png" tvg-id="",KISS
+http://lb.wisp.cat/lb0/Kiss_UK/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1240.png" tvg-id="",MTV UK
+http://lb.wisp.cat/lb0/MTV_UK/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1256.png" tvg-id="",MAX Sport 2 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1271.png" tvg-id="",MAX Sport 3 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_3_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1392.png" tvg-id="trace-urban",Trace Urban HD
+http://lb.wisp.cat/lb0/Trace_Urban_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1395.png" tvg-id="m1global",MMA-TV.COM HD
+http://lb.wisp.cat/lb0/M1_Global_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1397.png" tvg-id="megogo-live",M Live
+http://lb.wisp.cat/lb0/MegogoLiveHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1273.png" tvg-id="",MAX Sport 4 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_4_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Fight 24
+http://lb.wisp.cat/lb0/Fight_24/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1291.png" tvg-id="",FilMax UHD
+http://lb.wisp.cat/lb0/FilMax_UHD/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",VIRGIN RADIO
+http://lb.wisp.cat/lb0/VIRGIN_RADIO/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",BEAT HD
+http://lb.wisp.cat/lb0/TEST_BEAT_HD/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1306.png" tvg-id="diema-sport-3",Diema Sport 3 HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_3_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Setanta Sports 2 HD Baltic
+http://lb.wisp.cat/lb0/Setanta2_HD_Baltick/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1349.png" tvg-id="",Magic TV HD
+http://lb.wisp.cat/lb0/BG_MagicTV/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1359.png" tvg-id="",Nova Sport HD BG
+http://lb.wisp.cat/lb0/BG_Nova_Sport/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1356.png" tvg-id="",Planeta HD BG
+http://lb.wisp.cat/lb0/BG_Planeta_HD/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1352.png" tvg-id="",MAX Sport 1 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_1_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1362.png" tvg-id="",Hit Mix Music HD
+http://lb.wisp.cat/lb0/Hit_Mix_Music_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1361.png" tvg-id="",The Voice HD
+http://lb.wisp.cat/lb0/BG_The_Voice/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Setanta Sports 3 HD Georgia
+http://lb.wisp.cat/lb0/Setanta_Sports_3_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1386.png" tvg-id="",Deluxe Lounge HD
+http://lb.wisp.cat/lb0/Deluxe_Lounge_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1409.png" tvg-id="setanta-plus-ua",Setanta Sports + HD
+http://lb.wisp.cat/lb0/SetantaSportsplusHDUA/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="3" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1414.png" tvg-id="setanta-ua",Setanta Sports Україна HD
+http://lb.wisp.cat/lb0/SetantaUAHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1415.png" tvg-id="equalympic",Equalympic
+http://lb.wisp.cat/lb0/Equalympic/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/1914.png" tvg-id="",Football Hub
+http://lb.wisp.cat/lb0/Football_Hub/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1466.png" tvg-id="glazami-turista-4k",Глазами туриста 4K
+http://lb.wisp.cat/lb0/GLAZAMITURISTA4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1916.png" tvg-id="bridge-tv-dance",Bridge Hits HD
+http://lb.wisp.cat/lb0/Bridge_Hits_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",Muzzik TV
+http://lb.wisp.cat/lb0/Muzzik_TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1464.png" tvg-id="travel-xp-4k",TravelXP 4K
+http://lb.wisp.cat/lb0/INT_TRAVEL_XP_4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1462.png" tvg-id="trace-sport-stars",Trace Sport Stars HD
+http://lb.wisp.cat/lb0/Trace_Sports_Star_HD/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1480.png" tvg-id="canal-pl-sport-3",CANAL+ Sport 3 HD PL
+http://lb.wisp.cat/lb0/PL_CANAL_SPORT3HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1479.png" tvg-id="canal-pl-sport-4",CANAL+ Sport 4 HD PL
+http://lb.wisp.cat/lb0/PL_CANAL_SPORT4HDPL/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1478.png" tvg-id="diema-sport-2",Diema Sport 2 HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1485.png" tvg-id="mtv-music-pl",NickMusic
+http://lb.wisp.cat/lb0/nick_music_SD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1484.png" tvg-id="PL_MTVPolska.pl",MTV Polska HD
+http://lb.wisp.cat/lb0/MTVPOLSKAHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1487.png" tvg-id="diema-sport-1",Diema Sport HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1490.png" tvg-id="PL_PowerTV.pl",Power TV
+http://lb.wisp.cat/lb0/PL_Power_TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1498.png" tvg-id="canal-pl-sport-5",CANAL+ Sport 5 HD PL
+http://lb.wisp.cat/lb0/PL_nSportPlusPL/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1514.png" tvg-id="eskatv-rock",Eska Rock TV
+http://lb.wisp.cat/lb0/PL_EskaROCK/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1517.png" tvg-id="eurosport1-pl",Eurosport 1 HD Polska
+http://lb.wisp.cat/lb0/PL_Eurosport1HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1520.png" tvg-id="PL_FightBox HD PL",Fightbox HD Polska
+http://lb.wisp.cat/lb0/PL_FIGHTBOX_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1531.png" tvg-id="PL_SportKlub.pl",Sportklub HD
+http://lb.wisp.cat/lb0/PL_Sport_Klub_HD_Polska/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",Magic
+http://lb.wisp.cat/lb0/Magic_UK/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1542.png" tvg-id="tvp-sport",TVP Sport HD
+http://lb.wisp.cat/lb0/PL_TVP_Sport_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Вірменія" tvg-id="",Comedy AR
+http://lb.wisp.cat/lb0/Comedy_AR/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="KLI Retro HD",KLI Retro
+http://lb.wisp.cat/lb0/kliretro/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4k Concert
+http://lb.wisp.cat/lb0/Clarity4k_Concert/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Ukrainian music
+http://lb.wisp.cat/lb0/Clarity4K_Ukrainian_music/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1574.png" tvg-id="m2-ua",М2
+http://lb.wisp.cat/lb0/M2/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1575.png" tvg-id="m2-ua",М2 HD
+http://lb.wisp.cat/lb0/M2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",BT Sport 4K
+http://lb.wisp.cat/lb0/BEIN_4K_U/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1636.png" tvg-id="polsat-sport",Polsat Sport HD
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",Samobor
+http://lb.wisp.cat/lb0/418_HR_SamoborTV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1664.png" tvg-id="inrating",InRating HD
+http://lb.wisp.cat/lb0/In_Rating_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1675.png" tvg-id="",MTV HD UK
+http://lb.wisp.cat/lb0/MTV_HD_UK/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1677.png" tvg-id="best4sport2",Best4Sport 2 TV HD
+http://lb.wisp.cat/lb0/Best4Sport_2_HD_HVC/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Asia
+http://lb.wisp.cat/lb0/Clarity4K_Asia/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Q Sport League HD
+http://lb.wisp.cat/lb0/QSport_LeagueHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1710.png" tvg-id="xokkejny",Хоккейный HD
+http://lb.wisp.cat/lb0/SM_Hokeynyi_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Вірменія" tvg-logo="http://play.wisp.cat/logos/1830.png" tvg-id="shant-serial-hd",Shant Serial HD
+http://lb.wisp.cat/lb0/ShantSerialHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1831.png" tvg-id="",MTV Hits UK
+http://lb.wisp.cat/lb0/MTV_Hits_UK/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Вірменія" tvg-logo="http://play.wisp.cat/logos/1832.png" tvg-id="shant-music-hd",Shant Music HD
+http://lb.wisp.cat/lb0/ShantMusicHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Рух HD
+http://lb.wisp.cat/lb0/RUH_HD/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Eleven Sports 4K
+http://lb.wisp.cat/lb0/Eleven_Sport_4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",MOTORVISION+
+http://lb.wisp.cat/lb0/MOTORVISION_PLUS/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1738.png" tvg-id="xsport-plus-ua",Xsport + HD
+http://lb.wisp.cat/lb0/Xsport_plus_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1841.png" tvg-id="",ULTRA TV 4K
+http://lb.wisp.cat/lb0/ULTRA_TV_4K_PL/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1748.png" tvg-id="dynamo-kyiv-tv",Dynamo Kyiv TV HD
+http://lb.wisp.cat/lb0/Dynamo_Kiev_HD/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1753.png" tvg-id="bridge-tv-fresh",Bridge TV Rock HD
+http://lb.wisp.cat/lb0/Bridge_Fresh_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="KLI Club HD",KLI Club
+http://lb.wisp.cat/lb0/KLI_Club/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1804.png" tvg-id="",MTV 90 UK
+http://lb.wisp.cat/lb0/MTV_Base_UK/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1805.png" tvg-id="",MTV 80 UK
+http://lb.wisp.cat/lb0/MTV_Classic_UK/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1806.png" tvg-id="eurosport1",Eurosport 1 HD CEE
+http://lb.wisp.cat/lb0/Eurosport_1_HD_CEE/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1807.png" tvg-id="eurosport2",Eurosport 2 HD CEE
+http://lb.wisp.cat/lb0/Eurosport_2_HD_CEE/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1855.png" tvg-id="",Black HD
+http://lb.wisp.cat/lb0/Black_HD_UA/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",R&R
+http://lb.wisp.cat/lb0/R_R_TV/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",POP Star
+http://lb.wisp.cat/lb0/POP_Star/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Вірменія" tvg-id="",Shant Kids HD
+http://lb.wisp.cat/lb0/ShantKidsHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1892.png" tvg-id="setanta-kz",Setanta Qazaqstan HD
+http://lb.wisp.cat/lb0/Setantazk/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",Mooz Ro
+http://lb.wisp.cat/lb0/Mooz_Ro/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Auto Motor Sport HD
+http://lb.wisp.cat/lb0/Auto_Motor_Sport_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",EDGESport HD
+http://lb.wisp.cat/lb0/BG_EDGESport_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/1910.png" tvg-id="kxl-hd",KHL Prime HD
+http://lb.wisp.cat/lb0/KHL_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",SPORSMART 1 HD
+http://lb.wisp.cat/lb0/TR_SPORSMART/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1923.png" tvg-id="motorsportv-tv",Мотоспорт ТВ
+http://lb.wisp.cat/lb0/MOTOSPORT_SD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/2823.png" tvg-id="",MTRSPT1
+http://lb.wisp.cat/lb0/mtrspt/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/1952.png" tvg-id="",Event 12
+http://lb.wisp.cat/lb0/Event_12/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",Zona M
+http://lb.wisp.cat/lb0/MD_Zona_M/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Viasat Ultra UHD
+http://lb.wisp.cat/lb0/Viasat_Ultra_UHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",EUROSPORT 2 TR
+http://lb.wisp.cat/lb0/TR_EUROSPORT2/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",DiviSport HD
+http://lb.wisp.cat/lb0/DiviSport_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/1980.png" tvg-id="",Event 9
+http://lb.wisp.cat/lb0/Event_09/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/1985.png" tvg-id="",Event 8
+http://lb.wisp.cat/lb0/Event_08/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/1986.png" tvg-id="",Event 13
+http://lb.wisp.cat/lb0/Event_13/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",EUROSPORT 1 TR
+http://lb.wisp.cat/lb0/TR_EUROSPORT1/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/1989.png" tvg-id="",Event 7
+http://lb.wisp.cat/lb0/Event_07/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1995.png" tvg-id="box-beonedge",BOX Be on edge HD
+http://lb.wisp.cat/lb0/BOX_Be_on_edge_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2099.png" tvg-id="bridge-tv-fresh",Bridge TV Rock
+http://lb.wisp.cat/lb0/BRIDGE_TV_FRESH/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",FunBox UHD
+http://lb.wisp.cat/lb0/Funbox_UHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",Vocea Basarabiei HD
+http://lb.wisp.cat/lb0/MD_Vocea_Basarabiei/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2007.png" tvg-id="box-beonedge2live",BOX Be on edge live2 HD
+http://lb.wisp.cat/lb0/BOX_Be_on_edge_live2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/2824.png" tvg-id="",Hard Knocks
+http://lb.wisp.cat/lb0/Hard_Knocks/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/2010.png" tvg-id="",Event 11
+http://lb.wisp.cat/lb0/Event_11/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2013.png" tvg-id="box-beonedge1live",BOX Be on edge live1 HD
+http://lb.wisp.cat/lb0/BOX_Be_on_edge_live1_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Tivibuspor 1 HD
+http://lb.wisp.cat/lb0/TR_Tivibuspor1HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Sport 1 HD IL
+http://lb.wisp.cat/lb0/Sport1_HD_IL/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Sport 2 HD IL
+http://lb.wisp.cat/lb0/Sport2_HD_IL/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Sport 3 HD IL
+http://lb.wisp.cat/lb0/Sport3_HD_IL/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Sport 4 HD IL
+http://lb.wisp.cat/lb0/Sport4_HD_IL/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Sport 5 HD IL
+http://lb.wisp.cat/lb0/Sport5_HD_IL/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Sport 5+ HD IL
+http://lb.wisp.cat/lb0/Sport5plus_HD_IL/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/2042.png" tvg-id="",Event 10
+http://lb.wisp.cat/lb0/Event_10/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",MATCH4 HD
+http://lb.wisp.cat/lb0/Match4_HD_HU/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",GP1
+http://lb.wisp.cat/lb0/GP_1/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/2060.png" tvg-id="",Event 14
+http://lb.wisp.cat/lb0/Event_14/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/2066.png" tvg-id="",Event 15
+http://lb.wisp.cat/lb0/Event_15/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2073.png" tvg-id="best4sport",Best4Sport TV HD
+http://lb.wisp.cat/lb0/Best4Sport_HD_HVC/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",Radio Italia Trend TV HD
+http://lb.wisp.cat/lb0/Radio_Italia_Trend_TV_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",Radio Italia Tv HD
+http://lb.wisp.cat/lb0/Radio_Italia_Tv_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" timeshift="5" catchup-type="flussonic" tvg-logo="http://play.wisp.cat/logos/2111.png" tvg-id="sport1-ua-hd",Спорт 3 HD
+http://lb.wisp.cat/lb0/SPORT1_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2116.png" tvg-id="clubbing-tv",Clubbing HD
+http://lb.wisp.cat/lb0/CLUBBINGHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Red TOP 4K
+http://lb.wisp.cat/lb0/RED_TOP_4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/2273.png" tvg-id="",Event 16
+http://lb.wisp.cat/lb0/Event_16/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2278.png" tvg-id="a-spor-tr",A SPOR HD
+http://lb.wisp.cat/lb0/TR_ASPORHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Nova Sport 3 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT3_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2169.png" tvg-id="a-spor-tr",A SPOR
+http://lb.wisp.cat/lb0/TR_ASPOR/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2170.png" tvg-id="yes-sport-5",5 Sport 4K
+http://lb.wisp.cat/lb0/5Sport_4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Canal+ 4K Ultra HD
+http://lb.wisp.cat/lb0/Canalplus4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",SPORSMART2 HD
+http://lb.wisp.cat/lb0/TR_SPORSMART2/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Nova Sport 4 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT4_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2354.png" tvg-id="qsport-kz",Q Sport HD
+http://lb.wisp.cat/lb0/QSPORT_H264/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/2245.png" tvg-id="",Event 2
+http://lb.wisp.cat/lb0/Event_02/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/2248.png" tvg-id="",Event 3
+http://lb.wisp.cat/lb0/Event_03/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Sport PGM HD
+http://lb.wisp.cat/lb0/TR_SPORPGM/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",KLI Concert HD
+http://lb.wisp.cat/lb0/KLI_concert_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Трансляції" tvg-logo="http://play.wisp.cat/logos/2297.png" tvg-id="",Event 1
+http://lb.wisp.cat/lb0/Event_01/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2309.png" tvg-id="trt-3-hd",TRT Sport HD
+http://lb.wisp.cat/lb0/TR_TRTSPORTHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Tivibuspor 3 HD
+http://lb.wisp.cat/lb0/TR_Tivibuspor3HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2316.png" tvg-id="match-boets",Матч! Боец HD
+http://lb.wisp.cat/lb0/Match_Boec_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Семейный
+http://lb.wisp.cat/lb0/Clarity4K_Semeyniy/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Arena Sport 1 HD
+http://lb.wisp.cat/lb0/SVK_ARENA_SPORT1_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2380.png" tvg-id="bridge-tv-fresh",Bridge Fresh HD
+http://lb.wisp.cat/lb0/Bridge_HD_Frash/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Q Sport Arena HD
+http://lb.wisp.cat/lb0/QSport_Arena_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2397.png" tvg-id="fight-sports",Fight Sports HD
+http://lb.wisp.cat/lb0/FIGHT_SPORT_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2405.png" tvg-id="tv3-sport-3",Go3 Sport 3 HD
+http://lb.wisp.cat/lb0/TV3_Sport3_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2411.png" tvg-id="nba-tv",NBA TV HD
+http://lb.wisp.cat/lb0/NBA_HD_HVC/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",Jukebox HD
+http://lb.wisp.cat/lb0/Jukebox_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",S Sport HD
+http://lb.wisp.cat/lb0/TR_S_Sport_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2463.png" tvg-id="kazsport",Qazsport HD
+http://lb.wisp.cat/lb0/QazsportHD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",RADIO MONTE CARLO
+http://lb.wisp.cat/lb0/RADIO_MONTE_CARLO/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2471.png" tvg-id="",Krone Hit
+http://lb.wisp.cat/lb0/Krone_hit/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-id="",MTV Beats HD
+http://lb.wisp.cat/lb0/MTV_BEATS_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2480.png" tvg-id="ockoHD",Ocko HD CZ
+http://lb.wisp.cat/lb0/Ocko_CZ/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2494.png" tvg-id="ocko_blackHD",Ocko Black HD CZ
+http://lb.wisp.cat/lb0/Ocko_Black_CZ/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2498.png" tvg-id="ocko_starHD",Ocko Start HD CZ
+http://lb.wisp.cat/lb0/Ocko_Start_CZ/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2499.png" tvg-id="ocko_expresHD",Ocko Expres HD CZ
+http://lb.wisp.cat/lb0/Ocko_Expres_CZ/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2501.png" tvg-id="",Gerų naujienų TV HD
+http://lb.wisp.cat/lb0/LT_GNTV_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2504.png" tvg-id="",Setanta Sports Moldova HD
+http://lb.wisp.cat/lb0/SETANTAPLUS_HD_H264/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="quadro4k",Quadro 4K
+http://lb.wisp.cat/lb0/Quadro_4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity 4K
+http://lb.wisp.cat/lb0/Clarity_4K/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2538.png" tvg-id="",Retro CZ
+http://lb.wisp.cat/lb0/Retro_CZ/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",4K HERiTAGE
+http://lb.wisp.cat/lb0/4K_HERiTAGE_FR/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2614.png" tvg-id="box-music-4k",BOX Music 4K
+http://lb.wisp.cat/lb0/box_music_4k/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Tivibuspor 2 HD
+http://lb.wisp.cat/lb0/TR_Tivibuspor2HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",S Sport 2 HD
+http://lb.wisp.cat/lb0/TR_S_Sport_2_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/2749.png" tvg-id="muztv",Муз ТВ HD
+http://lb.wisp.cat/lb0/MUZTV_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2751.png" tvg-id="cars-n-stars",CARS&STARSTV HD
+http://lb.wisp.cat/lb0/CARS_STARSTV_HD/index.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2764.png" tvg-id="okko-sport",Окко Спорт HD
+http://lb.wisp.cat/lb0/OKKO_Sport_HD/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="home-4k",Home 4K HD
+http://lb.wisp.cat/lb0/home_hd/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",MUSEUM 4К HD
+http://lb.wisp.cat/lb0/museum_4k_hd/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Quadro 4К HD
+http://lb.wisp.cat/lb0/quadro_hd/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",MyZen 4К HD
+http://lb.wisp.cat/lb0/myzen_4k_hd/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/2770.png" tvg-id="nasha-sibir-4k",Наша Сибирь 4K HD
+http://lb.wisp.cat/lb0/NASHASIBIR4K_hd/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity 4K HD
+http://lb.wisp.cat/lb0/Clarity_4K_Hd/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Korean music
+http://lb.wisp.cat/lb0/Clarity4K_Korean_music/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Путешествие
+http://lb.wisp.cat/lb0/Clarity4K_Putesheswie/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Gamefilm
+http://lb.wisp.cat/lb0/Clarity4K_Gamefilm/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Мультимир
+http://lb.wisp.cat/lb0/Clarity4K_Multimir/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Relax камин
+http://lb.wisp.cat/lb0/Clarity4K_Relax_kamin/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Retro Hits Channel
+http://lb.wisp.cat/lb0/Clarity4K_Retro_Hits_Channel/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Звериный мир
+http://lb.wisp.cat/lb0/Clarity4K_Zveriniy_mir/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Космомир
+http://lb.wisp.cat/lb0/Clarity4K_Kosmomir/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Истории во времени
+http://lb.wisp.cat/lb0/Clarity4K_Istorii_vo_vremeni/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K АвтоМастер
+http://lb.wisp.cat/lb0/Clarity4K_Avtomaster/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4k КиноФраншизы
+http://lb.wisp.cat/lb0/Clarity4k_Kinofranchizi/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Комедия
+http://lb.wisp.cat/lb0/Clarity4K_Camedi/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4k Боевик
+http://lb.wisp.cat/lb0/Clarity4k_Boevic/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Bollywood music
+http://lb.wisp.cat/lb0/Clarity4K_Bollywood_music/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Russian music
+http://lb.wisp.cat/lb0/Clarity4K_Russian_music/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Фэнтези
+http://lb.wisp.cat/lb0/Clarity4K_Fantazy/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4k Anime アニメ
+http://lb.wisp.cat/lb0/Clarity4k_Anime/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Kинодети СССР
+http://lb.wisp.cat/lb0/Clarity4K_Kinodeti_sssr/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Сделано в СССР
+http://lb.wisp.cat/lb0/Clarity4K_madein_sssr/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Приключения
+http://lb.wisp.cat/lb0/Clarity4K_pricluchenia/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Ужасы
+http://lb.wisp.cat/lb0/Clarity4K_uzasy/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Фантастика
+http://lb.wisp.cat/lb0/Clarity4K_fantastic/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4k Драмы
+http://lb.wisp.cat/lb0/Clarity4k_dramma/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4k Военные
+http://lb.wisp.cat/lb0/Clarity4k_Woenie/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4k Вестерн
+http://lb.wisp.cat/lb0/Clarity4k_Western/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4k Единоборства
+http://lb.wisp.cat/lb0/Clarity4k_Edinoborstva/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-id="",Clarity4K Мультляндия
+http://lb.wisp.cat/lb0/Clarity4K_Multilandiya/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/2810.png" tvg-id="varzish-sport",Варзиш ТВ
+http://lb.wisp.cat/lb0/varzeshtv/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",BT Sport 1 UK TEST
+http://lb.wisp.cat/lb0/BT_sport1/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",BT Sport 2 UK TEST
+http://lb.wisp.cat/lb0/BT_sport2/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",BT Sport 3 UK TEST
+http://lb.wisp.cat/lb0/BT_sport3/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",BT Sport 4 UK TEST
+http://lb.wisp.cat/lb0/BT_sport4/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Premier Sports 1 HD 50 UK TEST
+http://lb.wisp.cat/lb0/PremierSports_1_HD_UK/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Premier Sports 2 HD 50 UK TEST
+http://lb.wisp.cat/lb0/PremierSports_2_HD_UK/video.m3u8?token=LQZlJPozJx
+#EXTINF:-1 group-title="Телеканали 4K" tvg-logo="http://play.wisp.cat/logos/1028.png" tvg-id="fashion-one-4k",Fashion One 4K
+http://lb.wisp.cat/lb0/Fashion_ONE_4K/video.m3u8?token=LQZlJPozJx
